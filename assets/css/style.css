@@ -13,4 +13,7 @@ button,
         font-size: 12px;
         font-weight: bold;
         color: palevioletred;
+        border-style: solid;
+        border-color: palevioletred;
+        border-width: 5px;
     }
